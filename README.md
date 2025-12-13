@@ -6,8 +6,7 @@
 #### 코드 리뷰나 피드백은 언제나 환영입니다! -->
 #### - 📑 Resume : 👉 https://gwon713.github.io 👈
 #### - 📬 Contact : 👉 gwon713@gmail.com 👈
-#### - 📖 Blog : 👉 https://velog.io/@gwon713 👈
-#### - 🚀 Rocket Punch : 👉 https://www.rocketpunch.com/@gwon713 👈
+#### - 🚀 Linked In : 👉 https://www.linkedin.com/in/gwon713/ 👈
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwon713&show_icons=true&theme=highcontrast)](https://github.com/gwon713/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwon713&layout=compact&theme=highcontrast)](https://github.com/gwon713/github-readme-stats)
 ## 🌟Skills
