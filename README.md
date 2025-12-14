@@ -4,7 +4,7 @@
 ### 학습을 좋아하는 개발자
 ### 프로스포츠 선수의 자세를 가진 개발자
 #### 코드 리뷰나 피드백은 언제나 환영입니다! -->
-#### - 📑 Resume : 👉 https://gwon713.github.io 👈
+#### - 📑 Resume : 👉 https://www.notion.so/2c91a33b1a7c80b694f9d40ee2b0c34a 👈
 #### - 📬 Contact : 👉 gwon713@gmail.com 👈
 #### - 🚀 Linked In : 👉 https://www.linkedin.com/in/gwon713/ 👈
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwon713&show_icons=true&theme=highcontrast)](https://github.com/gwon713/github-readme-stats) -->
